@@ -2,7 +2,7 @@
 
 ## Circuit Diagram:
 <div align="center">
-<img src="https://github.com/user-attachments/assets/85da967a-412f-4c1e-aaeb-318b213e4f7a" alt="Circuit" width="600" height="300">
+<img src="https://github.com/user-attachments/assets/96ccffa2-7f2d-405f-805a-be9000df4cb3" alt="Circuit" width="600" height="300">
 </div>
 
 ## Components Required:
