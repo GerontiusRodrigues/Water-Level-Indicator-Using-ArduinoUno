@@ -1,5 +1,3 @@
-# Water-Level-Indicator-Using-ArduinoUno
-
 ## Circuit Diagram:
 <div align="center">
 <img src="https://github.com/user-attachments/assets/96ccffa2-7f2d-405f-805a-be9000df4cb3" alt="Circuit" width="600" height="300">
